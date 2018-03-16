@@ -1,0 +1,12 @@
+{
+    "country": "CN",
+    "edition": "Developer",
+    "orgPreferences": {
+      "enabled": [
+        "S1DesktopEnabled"
+      ],
+      "disabled": []
+    },
+    "orgName": "Peter Dong Scratch Org",
+    "adminEmail": "dynckm@gmail.com"
+  }
