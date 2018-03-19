@@ -5,7 +5,7 @@ public with sharing class ContactsController {
    @RemoteAction
     public static List<Contact> GetContacts(){
         List<Contact> contacts = [select id, Name from contact LIMIT 50];
-        System.debug('this is a branch!!!!');
+        System.debug('mybranch!');
         return contacts;
     }
 }
