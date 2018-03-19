@@ -1,0 +1,24 @@
+{
+  "name": "sfdx-myproject",
+  "version": "1.0.0",
+  "description": "this is a practice for Salesforce DX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyncan/sfdx-myproject.git"
+  },
+  "author": "Peter Dong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dyncan/sfdx-myproject/issues"
+  },
+  "homepage": "https://github.com/dyncan/sfdx-myproject#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.6.5",
+    "gulp-zip": "^4.1.0"
+  }
+}
